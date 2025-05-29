@@ -8,6 +8,8 @@ I’m a **software engineer** specializing in full-stack development, with a foc
 - **Frontend:**  
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Radix UI](https://img.shields.io/badge/Radix--UI-%23181818?style=for-the-badge)
   
 - **Backend:**  
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
@@ -20,19 +22,6 @@ I’m a **software engineer** specializing in full-stack development, with a foc
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
----
-
-## 🌟 Current Project:
-### [Plaucaki.lv](https://plaucaki.lv/) - Campsite Booking Management System
-I’m currently working on **Plaucaki.lv**, a campsite website and booking management system designed to streamline the campsite reservation process. My contributions to this project include:
-
-- **Frontend:** Developing an intuitive UI using **ReactJS**.
-- **Backend:** Building scalable and efficient APIs using **PHP**.
-- **Database:** Managing user bookings and campsite data with **MySQL** and **Firebase**.
-- **Impact:** Helping campsite managers automate the booking process and deliver a seamless experience to users.
-
----
-
 ## 👯 Looking for New Opportunities
 I am actively seeking new opportunities to grow as a software engineer, collaborate on exciting projects, and contribute to innovative teams.
 
@@ -40,7 +29,8 @@ I am actively seeking new opportunities to grow as a software engineer, collabor
 
 ## 📫 Let's Connect!
 Feel free to reach out to me via email:  
-📧 **ansisarturs@gmail.com**  
+📧 **mail@ansisarthur.com**  
 
 You can also find me on:
 - [LinkedIn](https://www.linkedin.com/in/ansisarthur/)
+- [Portfolio](https://ansisarthur.com/)
